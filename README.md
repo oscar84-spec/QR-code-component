@@ -1,4 +1,4 @@
-## Front End Mentor
+## Front End Mentor Challenge
 
 QR Code component
 Desarrollando un componente card de un codigo QR
